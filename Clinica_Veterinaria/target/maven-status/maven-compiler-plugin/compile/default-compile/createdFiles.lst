@@ -1,0 +1,16 @@
+com\veterinaria\persistencia\ClienteJpaController.class
+com\veterinaria\persistencia\exceptions\IllegalOrphanException.class
+com\veterinaria\Clinica_Veterinaria.class
+com\veterinaria\igu\PanelMascota.class
+com\veterinaria\igu\PanelMascota$1.class
+com\veterinaria\persistencia\exceptions\NonexistentEntityException.class
+com\veterinaria\persistencia\ControladoraPersistencia.class
+com\veterinaria\igu\Principal$2.class
+com\veterinaria\logica\ControladoraLogica.class
+com\veterinaria\igu\Principal$1.class
+com\veterinaria\imagenes\imagenes.class
+com\veterinaria\logica\Cliente_.class
+com\veterinaria\logica\Cliente.class
+com\veterinaria\igu\Principal.class
+com\veterinaria\logica\Mascota.class
+com\veterinaria\persistencia\exceptions\PreexistingEntityException.class
